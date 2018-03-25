@@ -1,0 +1,75 @@
+Using depth first algorithm, Max depth: 2147483647, Action time: 10000
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl0.txt **
+Controller initialization time: 6 ms.
+Result (1->win; 0->lose):1, Score:5.0, timesteps:9
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl1.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:7.0, timesteps:98
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl2.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:11.0, timesteps:261
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl3.txt **
+Controller initialization time: 0 ms.
+Failed!
+Result (1->win; 0->lose):0, Score:0.0, timesteps:1000
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl4.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:11.0, timesteps:61
+Controller tear down time: 0 ms.
+
+Using limited depth first with heuristic algorithm, Max depth: 43, Action time: 100
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl0.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:5.0, timesteps:9
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl1.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:7.0, timesteps:205
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl2.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:7.0, timesteps:124
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl3.txt **
+Controller initialization time: 0 ms.
+Failed!
+Result (1->win; 0->lose):0, Score:0.0, timesteps:1000
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl4.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:11.0, timesteps:549
+Controller tear down time: 0 ms.
+
+Using A* algorithm, Max depth: 11, Action time: 100
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl0.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:5.0, timesteps:9
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl1.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:7.0, timesteps:38
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl2.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:11.0, timesteps:155
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl3.txt **
+Controller initialization time: 0 ms.
+Failed!
+Result (1->win; 0->lose):0, Score:2.0, timesteps:1000
+Controller tear down time: 0 ms.
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl4.txt **
+Controller initialization time: 0 ms.
+Result (1->win; 0->lose):1, Score:11.0, timesteps:72
+Controller tear down time: 0 ms.
+
+ ** Playing game examples/gridphysics/bait.txt, level examples/gridphysics/bait_lvl0.txt **
+Using MCTS algorithm, Action time: 100
+Controller initialization time: 1 ms.
+Result (1->win; 0->lose):0, Score:0.0, timesteps:1000
+Controller tear down time: 0 ms.
+
