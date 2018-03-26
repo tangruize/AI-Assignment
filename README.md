@@ -41,40 +41,40 @@ Description: f = g + h. It has to make a decision when time is up.
 | Level 0 | Win      | 5     | 9         |
 | Level 1 | Win      | 7     | 38        |
 | Level 2 | Win      | 11    | 155       |
-| Level 3 | Lose     | 2     | 1000      |
+| Level 3 | Lose     | 7     | 1000      |
 | Level 4 | Win      | 11    | 72        |
-| Summary | 4:1      | 36    | 274       |
+| Summary | 4:1      | 41    | 274       |
 
 ### Records
 
-Algoritm: DFS, DLS and A* respectively.
+Algoritm: DFS, DLS and A\* respectively.
 
 Level 0:
 
 ![DFS Level 0](assignment1/ScreenRecord/DFS/0.gif)
 ![DLS Level 0](assignment1/ScreenRecord/DLS/0.gif)
-![A* Level 0](assignment1/ScreenRecord/AStar/0.gif)
+![AStar Level 0](assignment1/ScreenRecord/AStar/0.gif)
 
 Level 1:
 
 ![DFS Level 1](assignment1/ScreenRecord/DFS/1.gif)
 ![DLS Level 1](assignment1/ScreenRecord/DLS/1.gif)
-![A* Level 1](assignment1/ScreenRecord/AStar/1.gif)
+![AStar Level 1](assignment1/ScreenRecord/AStar/1.gif)
 
 Level 2:
 
 ![DFS Level 2](assignment1/ScreenRecord/DFS/2.gif)
 ![DLS Level 2](assignment1/ScreenRecord/DLS/2.gif)
-![A* Level 2](assignment1/ScreenRecord/AStar/2.gif)
+![AStar Level 2](assignment1/ScreenRecord/AStar/2.gif)
 
 Level 3:
 
 ![DFS Level 3](assignment1/ScreenRecord/DFS/3.gif)
 ![DLS Level 3](assignment1/ScreenRecord/DLS/3.gif)
-![A* Level 3](assignment1/ScreenRecord/AStar/3.gif)
+![AStar Level 3](assignment1/ScreenRecord/AStar/3.gif)
 
 Level 4:
 
 ![DFS Level 4](assignment1/ScreenRecord/DFS/4.gif)
 ![DLS Level 4](assignment1/ScreenRecord/DLS/4.gif)
-![A* Level 4](assignment1/ScreenRecord/AStar/4.gif)
+![AStar Level 4](assignment1/ScreenRecord/AStar/4.gif)

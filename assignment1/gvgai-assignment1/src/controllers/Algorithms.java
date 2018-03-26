@@ -328,8 +328,9 @@ public class Algorithms {
             }
         }
         else if (openSet.isEmpty()) {
-            System.err.println("Failed!");
-            stateMachine = StateMachine.DEAD;
+//            System.err.println("Failed!");
+//            stateMachine = StateMachine.DEAD;
+            visitedSet.clear(); // get more score (+5) when A* failed.
         }
         else
             shouldContinue = true;
